@@ -75,8 +75,20 @@ The uploaded sketch contains an original header crediting **DIY Burner**. That a
 ## Repository structure
 
 ```text
-Arduino-Nano-Line-Follower-Robot/
+Line-Follower-Robot/
+│
 ├── Arduino_Code/
 │   └── LINE_FOLLOWER_car.ino
+│
+├── Circuit_Diagram/
+│   └── Circuit diagram.jpg
+│
+├── Images/
+│   ├── Robot Top.jpg
+│   └── Robot front.jpg
+│
+├── Project_Report/
+│   └── LF Robot Final Report.pdf
+│
 └── README.md
 ```
